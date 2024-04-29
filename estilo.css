@@ -1,0 +1,19 @@
+body{
+background-color: cadetblue;
+color: whitesmoke;
+display: grid;
+place-content: center;
+
+}
+h1{
+    text-align: center;
+}
+svg{
+    height: 100vh;
+    
+}
+path{
+    fill: darksalmon;
+    stroke: black;
+    stroke-width: 1.5;
+}
